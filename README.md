@@ -1,4 +1,4 @@
-# Fraud Detection In Financial Data UsingSQL
+# Fraud Detection In Financial Data Using SQL
 
 ## 📌 Project Overview
 
